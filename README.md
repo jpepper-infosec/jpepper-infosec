@@ -28,11 +28,6 @@ Alongside my academic work, I have 8+ years of experience in IT support, providi
 - 🛠 **Hack The Box Academy – Penetration Tester Job Role Path**  
   Developing practical skills in enumeration, exploitation, and post-exploitation using simulated infrastructure challenges.
 
-- 🐍 **Python for Security**  
-  Creating scripts for reconnaissance, log parsing, and automation to support learning and workflows across Red and Blue Team concepts.
-
-- 🔍 **Detection and Investigation Concepts**  
-  Exploring Sigma rules, Sysmon logs, and the MITRE ATT&CK framework to understand how attacker behaviour can be observed and interpreted.
 
 ---
 
@@ -62,8 +57,6 @@ Alongside my academic work, I have 8+ years of experience in IT support, providi
 - [`ctf-writeups-htb`](https://github.com/jpepper-infosec/ctf-writeups-htb)  
   Structured walkthroughs of Hack The Box retired machines — focused on enumeration, exploitation steps, and personal reflection.
 
-- [`python-tools`](https://github.com/jpepper-infosec/python-tools)  
-  Simple security scripts written in Python to assist with reconnaissance, log handling, and other foundational tasks.
 
 ---
 
